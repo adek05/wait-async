@@ -1,6 +1,6 @@
 {
   "name": "wait-until-async",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple library which builds on top of wait-promise, but provides utilities for conditions being async functions.",
   "main": "lib/index.js",
   "scripts": {
